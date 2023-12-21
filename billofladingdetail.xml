@@ -1,0 +1,31 @@
+
+			<ConsignmentItem>
+	    		<SequenceNumeric/>
+	    		<GoodsStatusCode/>
+	    		<Commodity>
+	    			<Description/>
+	    			<ValueAmount currencyID="USD"/>
+	    			<CategoryQualifierCode/>
+	    			<Classification>
+	    				<ID/>
+	    			</Classification>
+
+
+	    		</Commodity>
+	    		<Freight>
+	    			<PaymentMethodCode/>
+	    		</Freight>
+	    		<GoodsMeasure>
+	    			<GrossMassMeasure unitCode="KGM"/>
+	    			<NetVolumeMeasure unitCode="MTQ"/>
+	    		</GoodsMeasure>
+	    		<Packaging>
+	    			<MarksNumbersID/>
+	    			<QuantityQuantity unitCode="Z8"/>
+	    			<TypeCode/>
+	    		</Packaging>	
+	    		<TransportEquipment>
+	    			<ID/>
+	    		</TransportEquipment>
+	    	</ConsignmentItem>
+		

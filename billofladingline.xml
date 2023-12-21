@@ -1,0 +1,29 @@
+		<TransportEquipment xmlns:eds="urn:wco:datamodel:PE:Declaration_EDS:1">
+			<CharacteristicCode/>
+			<FullnessCode/>
+			<ID schemeID="2"/>
+			<ActionCode listID="11"/>
+			<!--EquipmentOwner>
+				<Name/>
+				<ID schemeID="4"/>
+				<RoleCode/>
+			</EquipmentOwner-->
+			<GoodsMeasure>
+				<eds:GrossMassMeasure unitCode="KGM"/>
+			</GoodsMeasure>
+			<Seal>
+				<ID/>
+				<ConditionCode/>
+				<SealingParty>
+					<TypeCode/>
+				</SealingParty>
+			</Seal>
+			<TransportEquipmentMeasure>
+				<eds:TareWeightMeasure unitCode="KGM"/>
+			</TransportEquipmentMeasure>
+			<!--Temperature>
+				<eds:StorageRequirementMeasure unitCode="CEL">25</eds:StorageRequirementMeasure>
+				<eds:MinimumStorageRequirementMeasure>20</eds:MinimumStorageRequirementMeasure>
+				<eds:MaximumStorageRequirementMeasure unitCode="1">30</eds:MaximumStorageRequirementMeasure>
+			</Temperature-->
+		</TransportEquipment>

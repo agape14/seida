@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/>
+<S:Body xmlns:ns0="http://services.sigad.sunat.gob.pe">
+<ns0:recibirArchivoResponse>
+<recibirArchivoResultado>
+<anhoEnvio>2023</anhoEnvio>
+<documentoEmisor>4-20543083888</documentoEmisor>
+<fechaRecepcion>2023-11-12T00:39:49</fechaRecepcion>
+<hashDocumento>b25c7357cccf8310e16e469c469a3a19bf757de5</hashDocumento>
+<numeroOrden>2020770013</numeroOrden>
+<ticketEnvio>2785</ticketEnvio>
+</recibirArchivoResultado>
+</ns0:recibirArchivoResponse>
+</S:Body>
+</S:Envelope>
+
+https://wscep.sourceforge.net/createrequest.html
+
+https://www.sunat.gob.pe/operatividadaduanera/fast/estructuras/formato-Mani-Salida.html
